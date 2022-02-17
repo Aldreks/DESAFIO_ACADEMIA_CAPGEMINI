@@ -6,7 +6,7 @@
 
 &nbsp;
 ### Finalidade do Projeto:
-  O desafio visa messurar o nível de conhecimento em lógica de programação e posterior classificação no processo de aprovação para o curso de Programa de Formação na Academia Técnica Capgemini e futuros (as) colaboradores (as) para os times de trabalho da empresa.
+  O desafio visa mensurar o nível de conhecimento em lógica de programação e posterior classificação no processo de aprovação para o curso de Programa de Formação na Academia Técnica Capgemini e futuros (as) colaboradores (as) para os times de trabalho da empresa.
 
 &nbsp;
 ### Importância:
