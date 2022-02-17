@@ -61,7 +61,7 @@ _Conter no mínimo 1 dos caracteres especiais: ! @ # $ % ^ & * ( ) - +_
 
 - Ao rodar o programa será solicitada uma palavra. Em seguida será publicado a quantidade possível de novas palavras de pares de letras através do anagrama da palavra fornecida.
 
-##### Opcional
+### Opcional
 
   O usuário terá a opção de escolher a aplicação em Python ou Java, ou ambas. Os códigos estão disponibilizados na pasta de sua respectiva linguagem.
   
