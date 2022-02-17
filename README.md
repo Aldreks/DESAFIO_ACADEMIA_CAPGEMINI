@@ -8,7 +8,7 @@
   O desafio visa mensurar o nível de conhecimento em lógica de programação e posterior classificação no processo de aprovação para o Programa de Formação na Academia Técnica Capgemini e futuros (as) colaboradores (as) para os times de trabalho da empresa.
 
 ### Importância:
-  O projeto-desafio consegue gerar indicadores onde será analisado o perfil se adequado ou não, para trabalhar na área de desenvolvimento, onde será avaliado:
+  O projeto-desafio servirá de base para avaliação da Capgemini através de seus especialistas classificando assim o perfil do candidato para trabalhar na área de desenvolvimento. Será avaliado:
  
 -Documentação
 -Estrutura do código
