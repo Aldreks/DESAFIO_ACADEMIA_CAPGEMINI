@@ -10,10 +10,10 @@
 ### Importância:
   O projeto-desafio servirá de base para avaliação da Capgemini através de seus especialistas classificando assim o perfil do candidato para trabalhar na área de desenvolvimento. Será avaliado:
  
--Documentação
--Estrutura do código
--Atendimento aos requisitos
--Testes unitários
+- Documentação
+- Estrutura do código
+- Atendimento aos requisitos
+- Testes unitários
 
 ### Candidato:
 
