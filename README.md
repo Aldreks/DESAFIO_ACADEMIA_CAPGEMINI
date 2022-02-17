@@ -31,11 +31,10 @@
 |----------------|---------------|--------------|
 | **Versão:**    |   11.0.11     |     3.10.2   |
   
-
+&nbsp;
 ### Recursos utilizados:
   
 - [x] IDE - Visual Studio Code (VS Code) Microsoft v. 1.64.0
-
 
 &nbsp;
 ### Como funcionam as aplicações:
